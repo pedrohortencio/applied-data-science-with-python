@@ -4,7 +4,7 @@ Repository containing files, slides, assignments and examples from [Applied Data
 ## Courses
 Note: all the data files mentioned below are uploaded to this repository, but can also be downloaded from the links in their respective notebooks.
 
-1 - [Introduction to Data Science With Python](https://github.com/pedrohortencio/applied-data-science-with-python/tree/main/Introduction%20to%20Data%20Science%20in%20Python)
+#### 1 - [Introduction to Data Science With Python](https://github.com/pedrohortencio/applied-data-science-with-python/tree/main/Introduction%20to%20Data%20Science%20in%20Python)
   * [Week+1.ipynb](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Introduction%20to%20Data%20Science%20in%20Python/Week%2B1.ipynb) - Basic Python functions, CSV files handling and NumPy examples.
   * [Week+2.ipynb](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Introduction%20to%20Data%20Science%20in%20Python/Week%2B2.ipynb) - Pandas codes, including series, querying series, dataframes and introduction to missing values.
   * [Week+3.ipynb](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Introduction%20to%20Data%20Science%20in%20Python/Week%2B3.ipynb) - More Pandas codes, including the concept of Pandorable code, groupby, scales, pivot tables and working with date and time.
@@ -14,10 +14,21 @@ Note: all the data files mentioned below are uploaded to this repository, but ca
   * [Assignment+4.ipynb](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Introduction%20to%20Data%20Science%20in%20Python/Assignment%2B4.ipynb) - It uses all the concepts about Pandas introduced (and requires some more), it also uses the housing data for the United States from the Zillow research data site, the university towns in the United States data copied and pasted from a Wikipedia page, and the GDP over time of the United States from the Bureau of Economic Analysis.
 
 
-2- [Applied Plotting, Charting & Data Representation in Python](https://github.com/pedrohortencio/applied-data-science-with-python/tree/main/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python)
+#### 2 - [Applied Plotting, Charting & Data Representation in Python](https://github.com/pedrohortencio/applied-data-science-with-python/tree/main/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python)
  * [Week2.ipynb](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python/Week2.ipynb) - Basic matplotlib plots (scatterplots, line plots and bar charts).
  * [Week3.ipynb](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python/Week3.ipynb) - Subplots, histograms, box and whisker plots, heattmaps, animations and interactivity.
  * [Week4.ipynb](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python/Week4.ipynb) - Pandas visualization (DataFrame.plot and pandas.tools.plotting) and seaborn
  * [Assignment2.ipynb](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python/Assignment2.ipynb) - Cleaning and plotting the NOAA (National Oceanic and Atmospheric Administration) dataset with the data near Ann Arbor, Michigan, United States.
  * [Assignment4.ipynb](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python/Assignment4.ipynb) - Making a visualization related to economic activity or mesures for the region of Ann Arbor, Michigan, United States.
  * [Matplotlib_3D.ipynb](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python/Matplotlib_3D.ipynb) - Example of how to plot 3D visualizations using matplotlib (mpl_toolkits.mplot3d and matplotlib.pyplot).
+
+#### 3 - [Applied Machine Learning in Python](https://github.com/pedrohortencio/applied-data-science-with-python/tree/main/Applied%20Machine%20Learning%20in%20Python)
+
+ * [Assignment+1.ipynb](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Applied%20Machine%20Learning%20in%20Python/Assignment%2B1.ipynb) - Introduction to scikit-learn using the Breast Cancer Wisconsing Database
+ * [Assignment+2.ipynb](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Applied%20Machine%20Learning%20in%20Python/Assignment%2B2.ipynb) - Relationship between model complexity and generalization performance, with both Regression and Classification.
+ * [Classifier+Visualization.ipynb](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Applied%20Machine%20Learning%20in%20Python/Classifier%2BVisualization.ipynb) - Visualization of various classifiers' decision boundaries using the UCI Mushroom Dataset.
+ * [Module1.ipynb](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Applied%20Machine%20Learning%20in%20Python/Module1.ipynb) - scikit-learn basics with k-NN
+ * [Module2.ipynb](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Applied%20Machine%20Learning%20in%20Python/Module2.ipynb) - Using k-NN to regression tasks, introducing more classification and regression models (including SVMs), cross validation and decision trees.
+ * [Module3.ipynb](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Applied%20Machine%20Learning%20in%20Python/Module3.ipynb) - Evaluation metrics and techniques for classification and regression
+ * [Module4.ipynb](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Applied%20Machine%20Learning%20in%20Python/Module4.ipynb) - More advanced models, including Ensembles of decision trees and Neural Networks.
+ * [Unsupervised_Learning](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Applied%20Machine%20Learning%20in%20Python/Unsupervised_Learning.ipynb) - Some models for Unsupervised Machine Learning, including PCA and clustering.
