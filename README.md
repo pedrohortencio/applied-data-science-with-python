@@ -25,7 +25,7 @@ All the data files mentioned below are uploaded to this repository (in the cours
 
 #### 3 - [Applied Machine Learning in Python](https://github.com/pedrohortencio/applied-data-science-with-python/tree/main/Applied%20Machine%20Learning%20in%20Python)
 
-*Note: notebooks 3 and 4 will be uploaded soon.*
+*Note: assignments 3 and 4 will be uploaded soon.*
  * [Assignment+1.ipynb](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Applied%20Machine%20Learning%20in%20Python/Assignment%2B1.ipynb) - Introduction to scikit-learn using the Breast Cancer Wisconsing Database
  * [Assignment+2.ipynb](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Applied%20Machine%20Learning%20in%20Python/Assignment%2B2.ipynb) - Relationship between model complexity and generalization performance, with both Regression and Classification.
  * [Classifier+Visualization.ipynb](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Applied%20Machine%20Learning%20in%20Python/Classifier%2BVisualization.ipynb) - Visualization of various classifiers' decision boundaries using the UCI Mushroom Dataset.
