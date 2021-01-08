@@ -44,3 +44,12 @@ All the data files mentioned below are uploaded to this repository (in the cours
  * [Module2.ipynb](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Applied%20Text%20Mining%20in%20Python/Module2.ipynb) - Basic NLP tasks using NLTK (counting vocabulary and frequency of words, normalization and stemming, lemmatization, tokenization) and advanced NLP tasks using NLTK (POS tagging and parsing ambiguity).
  * [Regex_with_Pandas_and_Named_Groups.ipynb](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Applied%20Text%20Mining%20in%20Python/Regex_with_Pandas_and_Named_Groups.ipynb) - An overview of working with text in Pandas. Useful functions and examples of regex use.
  * [Working_With_Text.ipynb.ipynb](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Applied%20Text%20Mining%20in%20Python/Working_With_Text.ipynb) - Basics of how to work with text in Python.
+ 
+ #### 5 - [Applied Social Network Analysis in Python]()
+
+*Note: assignments 2, 3 and 4 will be uploaded soon.*
+ * [Assignment+1.ipynb](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Applied%20Social%20Network%20Analysis%20in%20Python/Assignment%2B1.ipynb) - Creating and manipulating graphs using the Employee_Movie_Choices.txt data.
+ * [Loading+Graphs+in+NetworkX.ipynb](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Applied%20Social%20Network%20Analysis%20in%20Python/Loading%2BGraphs%2Bin%2BNetworkX.ipynb) - Multiple ways to load graphs in NetworkX. 
+ * [Graph Features.ipynb](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Applied%20Social%20Network%20Analysis%20in%20Python/Graph_Features.ipynb) - Creating a feature matrix from a NetworkX graph
+ * [Visualizing+Graphs+with+NetworkX.ipynb](https://github.com/pedrohortencio/applied-data-science-with-python/blob/main/Applied%20Social%20Network%20Analysis%20in%20Python/Visualizing%2BGraphs%2Bwith%2BNetworkX.ipynb) - multiple ways to plot visualizations using NetworkX.
+
